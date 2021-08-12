@@ -39,3 +39,6 @@ elif args.method == 'multiply':
 
 method = config['method_to_illustrate'].upper() if args.method is None else args.method.upper()
 logger.warning('{} : {}'.format(method + ' result', res))
+
+
+print("This is added in branch add-more-logic!")
