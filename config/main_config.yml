@@ -1,6 +1,10 @@
 app:
     method_to_illustrate: add
 
+database:
+    username: admin
+    password: admin
+
 logging:
     version: 1
     formatters:
